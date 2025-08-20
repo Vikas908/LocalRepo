@@ -7,5 +7,8 @@
 </head>
 <body>
     <p>This is new repository</p>
+    <?php
+    echo "Hello India!!"
+    ?>
 </body>
 </html>
